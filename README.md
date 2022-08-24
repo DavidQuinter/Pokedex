@@ -13,12 +13,12 @@ https://pokeapi.co/
   <li>David Quintero Garcia.</li>
 </ol>
 
-#Tablero y Wireframes
+##Tablero y Wireframes
 <ol>
   <li>[Pendiente]</li>
 </ol>
 
-#Link del Proyecto
+##Link del Proyecto
 <ol>
   <li>[Pendiente]</li>
 </ol>
