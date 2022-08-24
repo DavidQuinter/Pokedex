@@ -9,16 +9,14 @@ Proyecto personal en donde se ponen en practicas los conocimientos y habilidades
 https://pokeapi.co/
 
 ## Autores
-<ol>
-  <li>David Quintero Garcia.</li>
-</ol>
 
+-David Quintero Garcia.
+  
 ##Tablero y Wireframes
-<ol>
-  <li>[Pendiente]</li>
-</ol>
+
+-[Pendiente]
 
 ##Link del Proyecto
-<ol>
-  <li>[Pendiente]</li>
-</ol>
+
+- [Pendiente]
+
