@@ -12,11 +12,11 @@ https://pokeapi.co/
 
 -David Quintero Garcia.
   
-##Tablero y Wireframes
+## Tablero y Wireframes
 
 -[Pendiente]
 
-##Link del Proyecto
+## Link del Proyecto
 
 - [Pendiente]
 
