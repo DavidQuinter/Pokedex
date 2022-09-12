@@ -6,7 +6,7 @@ Proyecto personal en donde se ponen en practicas los conocimientos y habilidades
 
 ## Paginas referentes del proyecto. 
 
--(PokeAPI)[https://pokeapi.co/] API que contiene los pokemones a mostrar.
+- (PokeAPI)[https://pokeapi.co/] API que contiene los pokemones a mostrar.
 
 ## Autores
 
@@ -15,7 +15,7 @@ Proyecto personal en donde se ponen en practicas los conocimientos y habilidades
   
 ## Tablero y Wireframes
 
--(tablero trello)[https://trello.com/b/e3m7bRh7/pokedex]
+- (tablero trello)[https://trello.com/b/e3m7bRh7/pokedex]
 
 ## Link del Proyecto
 
